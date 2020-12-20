@@ -11,14 +11,14 @@ background-size: cover;
 .mid {
     /* display: block; */
     width: 30%;
-    padding: 30px;
-    /* margin: 10px auto; */
+    padding: 0px;
+    margin: 0px 550px;
     color:black;
     }
 
     .button {
-        background-color: #000000;
-        color: #FFFFFF;
+        background-color: #00000083;
+        color: white;
         float: right;
         padding: 10px;
         border-radius: 10px;
@@ -37,7 +37,6 @@ background-size: cover;
 .button {
     margin: 70px;
     padding: 10px;
-    bor
 }
 
 /* .footer h4 {
